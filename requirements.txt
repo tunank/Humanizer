@@ -1,0 +1,11 @@
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+trl
+sentencepiece
+torch
+python-dotenv
+fastapi
+uvicorn[standard]
