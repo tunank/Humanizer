@@ -8,4 +8,5 @@ sentencepiece
 torch
 python-dotenv
 fastapi
+huggingface_hub
 uvicorn[standard]
